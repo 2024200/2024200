@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 <h3 align="center">
-Driven data analytics student building a strong foundation in Data Analysis, Statistical modeling, Data Visualization and Machine Learning. Proficient in tools like Excel, SQL, Python, and Tableau, and always eager to learn and tackle new challenges in the evolving world of business analytics!</h4>
+Driven data analytics student building a strong foundation in Data Analysis, Statistical modeling, Data Visualization and Machine Learning. Proficient in tools like Excel, SQL, Python, and Tableau, and always eager to learn and tackle new challenges in the evolving world of business analytics!
+
+---
+
+Check out some of my recent projects in the Pinned below ⤵️</h4>
 
 <h3>💼 Some of the tools that I use daily</h3>
 <p>
